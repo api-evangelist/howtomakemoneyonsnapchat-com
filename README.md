@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-howtomakemoneyonsnapchat-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://howtomakemoneyonsnapchat.com/
+How to Make Money on Snapchat provides a comprehensive guide, sourced rules, a calculator, and an API to help creators and marketers understand Snapchat monetization criteria. The site offers detailed eligibility requirements, payout timelines, and rule changes, enabling users to compare their Snapchat metrics against published standards. It is not affiliated with Snap Inc., but serves as an independent resource for maximizing revenue on the platform.
+
+**Areas:** Company · Snapchat · Monetization · Calculator · Rules
+
+## howtomakemoneyonsnapchat-com on APIs.io
+
+Everything profiled for howtomakemoneyonsnapchat-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/howtomakemoneyonsnapchat-com/](https://apis.io/providers/howtomakemoneyonsnapchat-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [howtomakemoneyonsnapchat-com Calculations API](https://apis.io/apis/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-calculations-api/) — CALCULATION tools. Deterministic math on caller-supplied metrics. High view hours for a follower count are plain strings in warnings. Spotlight hours above…
+- [howtomakemoneyonsnapchat-com Facts API](https://apis.io/apis/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-facts-api/) — FACT tools. Official Snap rules with sources.
+- [howtomakemoneyonsnapchat-com Meta API](https://apis.io/apis/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-meta-api/) — Health, this OpenAPI document, and the remote MCP endpoint.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Howtomakemoneyonsnapchat Com Agentic Access](https://apis.io/agentic-access/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [calculate_gap output](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-calculate-gap-output-schema/)
+- [calculate_growth_pace input](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-calculate-growth-pace-input-schema/)
+- [calculate_growth_pace output](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-calculate-growth-pace-output-schema/)
+- [calculate_payout_timeline output](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-calculate-payout-timeline-output-schema/)
+- [check_eligibility output](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-check-eligibility-output-schema/)
+- [get_rule_changes input](https://apis.io/schemas/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-get-rule-changes-input-schema/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Howtomakemoneyonsnapchat Com Context](https://apis.io/jsonld/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [howtomakemoneyonsnapchat-com API Rules](https://apis.io/rules/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Howtomakemoneyonsnapchat Com Authentication](https://apis.io/security/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-authentication/)
+- [Howtomakemoneyonsnapchat Com Domain Security](https://apis.io/security/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Howtomakemoneyonsnapchat Com Scopes](https://apis.io/scopes/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Howtomakemoneyonsnapchat Com Plans Pricing](https://apis.io/plans/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Howtomakemoneyonsnapchat Com Rate Limits](https://apis.io/rate-limits/howtomakemoneyonsnapchat-com/howtomakemoneyonsnapchat-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://howtomakemoneyonsnapchat.com/)
+- [API reference](https://howtomakemoneyonsnapchat.com/docs)
+- [Pricing](https://howtomakemoneyonsnapchat.com/pricing)
+- [Terms of service](https://howtomakemoneyonsnapchat.com/terms)
+- [Privacy policy](https://howtomakemoneyonsnapchat.com/privacy)
+- [Status](https://howtomakemoneyonsnapchat.com/status)
+
+## API Evangelist rating
+
+**Kin Score 58.8** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 62.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 43.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/howtomakemoneyonsnapchat-com/](https://apis.io/providers/howtomakemoneyonsnapchat-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for howtomakemoneyonsnapchat-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/howtomakemoneyonsnapchat-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
